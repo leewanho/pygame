@@ -9,7 +9,7 @@ Python + Pygame 기반으로 제작되었습니다.
 
 ![Demo](images/demo.gif)
 
-▶️ **풀버전 시연 영상 (2분)**: [YouTube 링크 자리 — 업로드 후 채워주세요]
+▶️ **풀버전 시연 영상 (2분)**: [(https://youtube.com/shorts/GHj8UHPukzg?feature=share)]
 
 ---
 
