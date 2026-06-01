@@ -61,11 +61,4 @@ python pygame_ing.py
 - **사운드**: BGM, 효과음, 튜토리얼 내레이션 등 12개 `.wav` 파일
 - **이미지**: 3D 렌더링 스타일 아이콘 + 배경/UI 이미지
 
-## 🙏 Credits
-
-원 프로젝트는 팀 협업으로 시작되었으며, 본 저장소는 개인 포트폴리오 정리 목적으로 재구성되었습니다.
-원본 협업 저장소: [homilpat/bloodsurfer](https://github.com/homilpat/bloodsurfer)
-
----
-
-*Made with Pygame*
+*Made Pygame*
